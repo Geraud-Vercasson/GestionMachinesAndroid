@@ -14,7 +14,10 @@ npm run dev
 # build for production with minification
 npm run build
 
-# build for production and view the bundle analyzer report
+# add cordova platform (eg android)
+cordova platform add android
+
+# build and deploy on android
 cordova run android --device
 ```
 
