@@ -38,6 +38,6 @@ cordova run android --device
 ```
 
 
-For a detailed explanation on how things work on Vue Side, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+For a detailed explanation on how things work on Vue Side, check out the [Vue website](https://vuejs.org).
 
-For a detailed explanation on how things work on Cordova Side, check out the [guide](https://cordova.apache.org/)
+For a detailed explanation on how things work on Cordova Side, check out the [Cordova website](https://cordova.apache.org/)
